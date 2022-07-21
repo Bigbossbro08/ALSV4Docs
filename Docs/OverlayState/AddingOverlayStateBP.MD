@@ -21,4 +21,4 @@ In order to add a new Overlay State, you will need to follow the steps below:
     * GetGetupAnimation
 12. Additionally use **UpdateHeldObject** for your **Props**
 
-Credit: [Ki_99](https://www.youtube.com/channel/UCUkf-cXGx9zqdZL42BELVjA) Bigbossbro08
+Credit: [Ki_99](https://www.youtube.com/channel/UCUkf-cXGx9zqdZL42BELVjA), Bigbossbro08
