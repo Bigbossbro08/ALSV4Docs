@@ -19,4 +19,6 @@ After writing down what you know from ALSV4, consider writing your name at the e
 - Credit: People1, People2, ..., PeopleN, YourName
 ```
 
+Lastly while making docs please make it more easy to understand questions. Bad questions may fail us for getting the exact answer for your workcase.
+
 Ask questions in issues to improve the documentation.
